@@ -1,0 +1,9 @@
+{
+  "server_port": "8090",
+  "security_enabled": true,
+  "api_key": "api_key",
+
+  "use_https": false,
+  "https_cert_path": "path/to/cert.pem",
+  "https_key_path": "path/to/key.pem"
+}
